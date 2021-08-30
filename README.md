@@ -258,11 +258,6 @@
 <td>Проверяет наличие допустимого интервала между операторами.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>PHP.DeprecatedFunctions</td>
 <td>/Generic.PHP.DeprecatedFunctions</td>
 <td>Не рекомендует использовать устаревшие функции PHP. </td>
